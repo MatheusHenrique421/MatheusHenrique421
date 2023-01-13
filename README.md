@@ -16,7 +16,7 @@
 #
 ### [🚀💻 Tecnologia e Frameworks](#-languages-)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHenrique421&layout=compact)](https://github.com/MatheusHenrique421/github-readme-stats)
-<div>
+<div align="center">
 <img aligin="center" alt="" height="40" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
  
 <img aligin="center" alt="" height="40" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
