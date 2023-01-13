@@ -16,7 +16,6 @@
 #
 ### [🚀💻 Tecnologia e Frameworks](#-languages-)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHenrique421&layout=compact)](https://github.com/MatheusHenrique421/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHenrique421)](https://github.com/MatheusHenrique421/github-readme-stats)
 <div>
 <img aligin="center" alt="" height="40" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
  
@@ -37,6 +36,7 @@
 
 ## Snake on commit
 ![Snake animation](https://github.com/MatheusHenrique421/MatheusHenrique421/blob/output/github-contribution-grid-snake.svg)
-# 
+
+#
 
 [![]()]()
