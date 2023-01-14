@@ -13,7 +13,6 @@
 
 #
 
-#
 <h2 align="center"> 🚀💻[Tecnologia e Frameworks]</h2>
 <div align="center">
 <img aligin="center" alt="" height="40" wisth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
