@@ -1,14 +1,6 @@
-<img align='right' src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif" width="260">
-
-## Boa pra nós ✌️, eu sou o Matheus Henrique.
-> Desenvolvedor Web Full Stack Jr.
+<h3 align="center">Boa pra nós ✌️, eu sou o Matheus Henrique.</h3>
+Desenvolvedor Web Full Stack Jr.
 > 
-#
-[![Website](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-henrique-s-436410173/)
-[![Website](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus_henrique421/)
-[![Website](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/_mhs421/)
-
-#
 
 <h2 align="center"> 🚀💻[Tecnologia e Frameworks]</h2>
 <div align="center">
