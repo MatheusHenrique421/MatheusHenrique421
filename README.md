@@ -36,9 +36,9 @@ com foco em otimização de desempenho e entrega de soluções de alta qualidade
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
-  <a href="https://github.com/MatheusHenrique421">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusHenrique421&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHenrique421&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/MatheusHenriqueSchumliak">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusHenriqueSchumliak&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusHenriqueSchumliak&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
@@ -50,14 +50,14 @@ com foco em otimização de desempenho e entrega de soluções de alta qualidade
 
 <div align="center"> 
   
-  ![Visualizações do perfil](https://komarev.com/ghpvc/?username=MatheusHenrique421&label=Visualizações&color=brightgreen&style=for-the-badge)
+  ![Visualizações do perfil](https://komarev.com/ghpvc/?username=MatheusHenriqueSchumliak&label=Visualizações&color=brightgreen&style=for-the-badge)
   
 </div>
 
 <h3>🐍⚡ Snake on commit</h3>
 <div align="center">
   
-![Snake animation](https://github.com/MatheusHenrique421/MatheusHenrique421/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MatheusHenriqueSchumliak/MatheusHenriqueSchumliak/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
