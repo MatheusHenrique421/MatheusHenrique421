@@ -1,5 +1,5 @@
 <h3 align="center">Salvee✌️, eu me chamo Matheus Henrique e sou Desenvolvedor Web Full Stack.</h3>
-<h3>Sobre mim</h2>
+<h3>Sobre mim</h3>
 <p align="center"> Sou um Desenvolvedor Fullstack de nível médio, formado em bacharelado em Analise e Desenvolvimento de Sistemas. Com quase três anos de experiência como desenvolvedor fullstack, trabalhei em alguns projetos desafiadores,
 com foco em otimização de desempenho e entrega de soluções de alta qualidade e bem estruturadas tanto no backend quanto no frontend.</p>
 
@@ -60,5 +60,3 @@ com foco em otimização de desempenho e entrega de soluções de alta qualidade
 ![Snake animation](https://github.com/MatheusHenriqueSchumliak/MatheusHenriqueSchumliak/blob/output/github-contribution-grid-snake.svg)
   
 </div>
-
-[![]()]()
